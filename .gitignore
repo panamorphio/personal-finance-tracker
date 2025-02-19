@@ -1,2 +1,5 @@
 #CSV File
 finance_data.csv
+
+#Cache
+__pycache__/
